@@ -1,5 +1,5 @@
-# My own vps
-Detail instruction for constructing own vps.
+# Set up SS server
+Detail instruction for SS server.
 ## Server Envirement
 Server: Google Cloud  
 OS: Ubuntu 16.04  
