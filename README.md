@@ -1,4 +1,4 @@
-# myownvps
+# My own vps
 Detail instruction for constructing own vps.
 ## Server Envirement
 Server: Google Cloud  
