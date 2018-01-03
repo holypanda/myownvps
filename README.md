@@ -14,6 +14,7 @@ Make sure to allow access to all port in Google firewall
   apt-get install python3
   apt-get install python3-pip
   python3 -m pip install shadowsocks
+  
   # Python 2
   apt-get install python
   apt-get install python-pip
@@ -23,7 +24,7 @@ Make sure to allow access to all port in Google firewall
   Make config file direction:
 ```
   mkdir /etc/shadowsocks
-  vim /etc/shdowsocks/config.json
+  vim /etc/shadowsocks/config.json
 ```
   Single-user:
 ```
