@@ -57,10 +57,10 @@ Make sure to allow access to all port in Google firewall
 ## Start the SS Server:
 ```
 to start:
-ssserver -c /etc/shdowsocks/config.json -d start
+ssserver -c /etc/shadowsocks/config.json -d start
 
 to stop:
-ssserver -c /etc/shdowsocks/config.json -d stop
+ssserver -c /etc/shadowsocks/config.json -d stop
 ```
 
 Quick-Start without config:
